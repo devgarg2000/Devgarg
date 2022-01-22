@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/devgarg2000/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dev garg's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devgarg2000&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -52,14 +52,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devgarg2000&show_icons=true&count_private=true&theme=slateorange&hide_border=true&bg_color=0D1117" />
+    <a href="#"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devgarg2000&show_icons=true&count_private=true&theme=slateorange&hide_border=true&bg_color=0D1117" />
     </a>
     
 <br/>
 <br/>
 
 
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="dev garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarg2000&langs_count=8&count_private=true&layout=compact&theme=slateorange&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/devgarg2000/devgarg2000"><img alt="dev garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarg2000&langs_count=8&count_private=true&layout=compact&theme=slateorange&hide_border=true&bg_color=0D1117" />
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
