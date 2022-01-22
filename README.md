@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" src="https://wallpapercave.com/dwp1x/wp6617643.jpg" height="120px" style="border-radius:50px"/></a>
+<p align="center"><img src="https://wallpapercave.com/dwp1x/wp6617643.jpg" width="300" height="180" style="border-radius:50px;img align=center;"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev</h1>
 <h3 align="center">Upcoming passionate Full Stack Developer from India.</h3>
