@@ -1,4 +1,5 @@
-<p align="center"><img src="https://wallpapercave.com/dwp1x/wp6617643.jpg" width="300" height="180" style="border-radius:50px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84866394/150648077-682da684-aa4e-4937-924c-59c41638e760.gif" width="230" height="150"/></p>
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev</h1>
 <h3 align="center">Upcoming passionate Full Stack Developer from India.</h3>
