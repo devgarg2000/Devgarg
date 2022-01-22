@@ -59,7 +59,7 @@
 <br/>
 
 
-  <a href="#"><img alt="dev garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarg2000&langs_count=8&count_private=true&layout=compact&theme=slateorange&hide_border=true&bg_color=0D1117" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarg2000&langs_count=8&count_private=true&layout=compact&theme=slateorange&hide_border=true&bg_color=0D1117"><img alt="dev garg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgarg2000&langs_count=8&count_private=true&layout=compact&theme=slateorange&hide_border=true&bg_color=0D1117" />
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
