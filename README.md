@@ -12,7 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🌱 Consistent on <a href="https://leetcode.com/Devgarg5/">leetcode</a> and <a href= "https://www.codechef.com/users/devgarg/">codechef</a> to solve those problem and improve solving skills.  
 
 - 📫 How to reach me **dvgrg2000@gmail.com**
 
