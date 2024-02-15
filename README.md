@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev</h1>
-<h3 align="center">Upcoming passionate Full Stack Developer from India.</h3>
+<h3 align="center">Passionate Computer Engineer</h3>
  
 
 ## 🙋‍♂️ About Me
