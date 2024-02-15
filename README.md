@@ -7,11 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-
+- 🔥 Data Engineer At Amazon
+  
 - 🌱 I’m currently learning **Data Structures and Algorithms with c++.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
 
 - 📫 How to reach me **dvgrg2000@gmail.com**
 
